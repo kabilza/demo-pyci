@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/kabilza/demo-pyci.svg?branch=master)](https://travis-ci.com/kabilza/demo-pyci)
+
 Continuous Integration Demo
 ============================
 
